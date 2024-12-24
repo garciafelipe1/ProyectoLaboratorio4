@@ -1,3 +1,6 @@
+#ESTE ES EL FINAL DE LABORATORIO IV, LO HICIMOS EN CONJUNTOS ENTRE 4 PERSONAS, CADA PERSONA HIZO UNA PANTALLA.
+PERSONAS: @UBLAN - @BAUTIEXPOSITO - JAUDAY- GARCIAFELIPE1
+
 # SpotyLand - Simulación Spotify App
 
 Una aplicación educativa que explora los fundamentos de Flutter, presentando ejemplos prácticos de widgets y estructuras comunes.
